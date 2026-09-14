@@ -2,13 +2,13 @@
     "info": {
         "id": {
             "name": "nos.str",
-            "version": "1.0.0"
+            "version": "2.0.0"
         },
         "display_name": "Strings",
         "description": "Collection of string manipulation nodes",
 		"category": "Utilities"
     },
     "binary_path": "Binaries/nosStr",
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

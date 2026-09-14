@@ -2,36 +2,36 @@
     "info": {
         "id": {
             "name": "nos.noise",
-            "version": "1.0.0"
+            "version": "2.0.0"
         },
         "display_name": "nos.noise",
         "description": "Noise utilities for Nodos.",
         "dependencies": [
             {
                 "name": "nos.sys.vulkan",
-                "version": "8.0"
+                "version": "9.0"
             },
             {
                 "name": "nos.math",
-                "version": "2.0"
+                "version": "3.0"
             },
             {
                 "name": "nos.compositing",
-                "version": "1.0"
+                "version": "2.0"
             },
             {
                 "name": "nos.resource",
-                "version": "1.0"
+                "version": "2.0"
             },
             {
                 "name": "nos.filters",
-                "version": "3.0"
+                "version": "4.0"
             }
         ],
         "category": "Procedural Generation"
     },
     "binary_path": "./Binaries/nosNoise",
     "third_party_software": ["./Config/Licenses.json"],
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

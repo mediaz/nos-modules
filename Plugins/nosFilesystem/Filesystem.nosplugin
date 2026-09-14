@@ -2,19 +2,19 @@
 	"info": {
 		"id": {
 			"name": "nos.filesystem",
-			"version": "1.0.0"
+			"version": "2.0.0"
 		},
 		"description": "File system nodes: list directories, read files.",
 		"display_name": "Filesystem",
 		"dependencies": [
 			{
 				"name": "nos.sys.vulkan",
-				"version": "8.0"
+				"version": "9.0"
 			}
 		],
 		"category": "Utilities"
 	},
 	"binary_path": "Binaries/nosFilesystem",
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

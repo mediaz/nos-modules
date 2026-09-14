@@ -2,18 +2,18 @@
     "info": {
         "id": {
             "name": "nos.track",
-            "version": "3.0.0"
+            "version": "4.0.0"
         },
         "display_name": "Track",
         "category": "Virtual Studio",
         "dependencies": [
             {
                 "name": "nos.sys.animation",
-                "version": "3.0"
+                "version": "4.0"
             },
             {
                 "name": "nos.math",
-                "version": "2.0"
+                "version": "3.0"
             }
         ]
     },
@@ -21,6 +21,6 @@
         "Types/Defaults.json"
     ],
     "binary_path": "Binaries/nosTrack",
-    "sdk_version": "41.0",
+    "sdk_version": "42.0",
     "schema_version": "1.4-v1"
 }

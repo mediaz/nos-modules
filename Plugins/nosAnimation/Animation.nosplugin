@@ -2,7 +2,7 @@
   "info": {
     "id": {
       "name": "nos.animation",
-      "version": "1.0.0"
+      "version": "2.0.0"
     },
     "display_name": "nos.animation",
     "description": "Animation nodes for Nodos.",
@@ -10,7 +10,7 @@
     "dependencies": [
       {
         "name": "nos.sys.animation",
-        "version": "3.0"
+        "version": "4.0"
       }
     ]
   },
@@ -18,6 +18,6 @@
   "named_values": [
     "Types/AnimationExpressionPresets.json"
   ],
-    "sdk_version": "41.0",
+    "sdk_version": "42.0",
     "schema_version": "1.4-v1"
 }

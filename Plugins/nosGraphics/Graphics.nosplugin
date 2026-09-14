@@ -2,7 +2,7 @@
     "info": {
         "id": {
             "name": "nos.graphics",
-            "version": "1.0.0"
+            "version": "2.0.0"
         },
         "description": "Types & Nodes for graphics operations.",
         "display_name": "Graphics",
@@ -10,23 +10,23 @@
         "dependencies": [
             {
                 "name": "nos.sys.vulkan",
-                "version": "8.0"
+                "version": "9.0"
             },
             {
                 "name": "nos.track",
-                "version": "3.0"
+                "version": "4.0"
             },
             {
                 "name": "nos.reflect",
-                "version": "3.0"
+                "version": "4.0"
             },
             {
                 "name": "nos.math",
-                "version": "2.0"
+                "version": "3.0"
             }
         ]
     },
     "binary_path": "Binaries/nosGraphics",
-    "sdk_version": "41.0",
+    "sdk_version": "42.0",
     "schema_version": "1.4-v1"
 }

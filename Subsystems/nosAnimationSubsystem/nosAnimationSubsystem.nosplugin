@@ -2,19 +2,19 @@
     "info": {
         "id": {
             "name": "nos.sys.animation",
-            "version": "3.0.0"
+            "version": "4.0.0"
         },
         "display_name": "Animation Subsystem",
         "description": "",
         "dependencies": [
             {
                 "name": "nos.sys.settings",
-                "version": "3.0"
+                "version": "4.0"
             }
         ],
         "category": "Animation"
     },
     "binary_path": "./Binaries/nosSysAnimation",
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

@@ -42,7 +42,7 @@ nosResult NOSAPI_CALL Export(uint32_t minorVersion, void** outSubsystemContext)
 	}
 	auto* subsystem = new nosSyncSubsystem();
 	subsystem->RegisterEventGroup = RegisterEventGroup;
-	static_assert(NOS_SYNC_VERSION_MAJOR == 12, "Update the exported subsystem versions if the major version changes");
+	static_assert(NOS_SYNC_VERSION_MAJOR == 13, "Update the exported subsystem versions if the major version changes");
 	subsystem->RegisterEvent = RegisterEvent;
 	subsystem->UnregisterEvent = UnregisterEvent;
 	subsystem->WaitForConsensus = WaitForConsensus;

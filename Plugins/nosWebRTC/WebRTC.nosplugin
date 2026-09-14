@@ -2,20 +2,20 @@
     "info": {
         "id": {
             "name": "nos.webrtc",
-            "version": "2.0.0"
+            "version": "3.0.0"
         },
         "description": "WebRTC Nodes",
         "display_name": "WebRTC",
         "dependencies": [
             {
                 "name": "nos.sys.vulkan",
-                "version": "8.0"
+                "version": "9.0"
             }
         ],
         "category": "Media I/O",
         "tags": ["streaming"]
     },
     "binary_path": "Binaries/nosWebrtc",
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

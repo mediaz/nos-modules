@@ -2,7 +2,7 @@
     "info": {
         "id": {
             "name": "nos.reflect",
-            "version": "3.0.0"
+            "version": "4.0.0"
         },
         "display_name": "Reflect",
 		"category": "Utilities",
@@ -10,15 +10,15 @@
 			"dependencies": [
 				{
 					"name": "nos.sys.variables",
-					"version": "3.0"
+					"version": "4.0"
 				},
 				{
 					"name": "nos.transfer",
-					"version": "0.1"
+					"version": "1.0"
 				}
 			]
     },
     "binary_path": "Binaries/nosReflect",
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

@@ -5,16 +5,16 @@
     "dependencies": [
       {
         "name": "nos.sys.vulkan",
-        "version": "8.0"
+        "version": "9.0"
       }
     ],
     "description": "Plugin for testing purposes.",
     "display_name": "Test",
     "id": {
       "name": "nos.experiment",
-      "version": "2.0.0"
+      "version": "3.0.0"
     }
   },
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }

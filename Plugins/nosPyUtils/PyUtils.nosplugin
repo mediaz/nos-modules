@@ -2,18 +2,18 @@
     "info": {
         "id": {
             "name": "nos.pyutils",
-            "version": "1.0"
+            "version": "2.0"
         },
         "display_name": "nos.pyutils",
         "description": "",
         "dependencies": [
             {
                 "name": "nos.py",
-                "version": "2.0"
+                "version": "3.0"
             }
         ]
     },
     "binary_path": "./Binaries/nosPyutils",
-	"sdk_version": "41.0",
+	"sdk_version": "42.0",
 	"schema_version": "1.4-v1"
 }
